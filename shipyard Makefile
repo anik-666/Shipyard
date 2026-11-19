@@ -5,17 +5,17 @@ shipyard/
 ├── .editorconfig
 ├── .dockerignore
 ├── compose.yaml
-├── pyproject.toml          
+├── pyproject.toml
 ├── src/shipyard/
 │   ├── __init__.py
-│   ├── config.py          
-│   ├── logging.py          
-│   ├── db.py               
-│   ├── queue.py            
-│   ├── api.py              
-│   └── worker.py           
-├── migrations/ or sql/     
-├── scripts/init-aws.sh     
+│   ├── config.py
+│   ├── logging.py
+│   ├── db.py
+│   ├── queue.py
+│   ├── api.py
+│   └── worker.py
+├── migrations/ or sql/
+├── scripts/init-aws.sh
 ├── tests/unit/
 ├── tests/integration/
 └── docs/learning-log.md
